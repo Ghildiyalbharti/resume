@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>RESUME</title>
+<link rel="stylesheet" href="prop.css" type="text/css">
+
+</head>
+<body>
+<h2><b>Bharti Ghildiyal</b></h2>
+<h3> Student</h3>
+I am hardworking,knowledge seeker pursuing Masters in computer applications.
+<div class="relative">
+<p> mail id:ghildiyalbharti@gmail.com <br>phone no.:9********4  <br>address : Sector-13, ghaziabad (U.P)</p></div>
+<HR>
+<h3><b>EDUCATION</b></H3>
+
+<U>Masters in Computer Applications</U> <br>
+   2021- Present<br>subjects
+   <ul>
+   <li>C Programming</li>
+   <li>Data structures</li>
+   <li>DBMS</li>
+   <li>HTML/CSS</li>
+   </ul>
+   <U>B.sc(H)Biomedical Sciences</U> <br> 
+   2018-2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp 8.2CGPA <br>subjects
+   <ul>
+   <li>R Programming</li>
+   <li>Biotechnology</li>
+   <li>Microbiology</li>
+   <li>Physiology</li>
+   </ul>
+   <UL>
+   <HR>
+   <U><b>Skills</b></U> <br>
+   <li>C Programming</li>
+   <li> Data Structure</li>
+   <li>DBMS</LI>
+   </UL>
+   
+
+</body>
+</html>
